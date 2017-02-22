@@ -8,6 +8,7 @@
     <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
 
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
     <title>{{ site.title | default: site.github.repository_name }}</title>
   </head>
 
@@ -16,9 +17,6 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
-<!--
-          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
--->
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
@@ -35,19 +33,6 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
-				Welcome to my new blog on github-pages! I'm currently working on migrating over from my old site at <a href=you.stonybrook.edu/loopmatters/>you.stonybrook.edu/loopmatters</a>, where I've been blogging about particle physics and related things sporadically since Fall 2016. When I have everything set up the way I'd like here, I'll migrate over all my old posts from there and start posting exclusively to the new site. In the meantime, feel free to check out my professional webpage at <a href=shomiller.github.io>shomiller.github.io</a>. More coming soon!
-
-
-
-
-				<ul>
-				  {% for post in site.posts %}
-    				<li>
-      				<a href="{{ post.url }}">{{ post.title }}</a>
-							{{ post.excerpt }}
-    				</li>
-  				{% endfor %}
-				</ul>
       </section>
     </div>
 
