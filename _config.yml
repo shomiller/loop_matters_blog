@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Loop Matters
 email: shomiller@gmail.com
-description: My description goes here! 
+description: A blog about particle physics from an aspiring academic. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shomiller2
@@ -23,7 +23,7 @@ github_username:	shomiller
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
 gems:
   - jekyll-feed
 exclude:
