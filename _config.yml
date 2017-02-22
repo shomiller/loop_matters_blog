@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: Loop Matters
 email: shomiller@gmail.com
-description: A blog about particle physics from an aspiring academic. 
-#baseurl: "/loop_matters_blog" # the subpath of your site, e.g. /blog
+description: A blog about particle physics from an aspiring academic.
+baseurl: "/loop_matters_blog" # the subpath of your site, e.g. /blog
 #url: "http://shomiller.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shomiller2
-github_username:	shomiller 
+github_username:	shomiller
 
 # Build settings
 markdown: kramdown
