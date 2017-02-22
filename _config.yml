@@ -21,6 +21,8 @@ url: "http://shomiller.github.io" # the base hostname & protocol for your site, 
 twitter_username: shomiller2
 github_username:	shomiller
 
+pages_list:     {'About':'/about.html', 'Archive':'/archive'}
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-slate
