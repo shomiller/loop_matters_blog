@@ -11,8 +11,11 @@ comments: false
 <ul>
   {% for post in site.posts limit:10%}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-			{{ post.excerpt }}
+      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+			{{ post.excerpt }}<a href="{{ site.baseurl }}{{ post.url }}">Read more...</a>
+      <br/><br/>
     </li>
   {% endfor %}
+
+  <h4><a href="{{ site.baseurl }}/archive.html">View all</a></h4>
 </ul>

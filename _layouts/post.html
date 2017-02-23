@@ -2,24 +2,14 @@
 layout: default
 ---
 
-<div class="post">
+<article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{page.date | date_to_string}}</span>
-  {{ content | replace: '<!--break-->', '<a class="anchor" id="read-more"></a>' }}
-</div>
+    {{ content }}
+</article>
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/1.2.1/anchor.min.js"></script>
-<script type="text/javascript">
-anchors.options.visible = 'hoover';
-anchors.options.placement = 'left';
-anchors.add();
-anchors.remove('.masthead-title');
-</script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/2.3.1/picturefill.min.js"></script>
-
-<div class="related">
+{% if site.related_posts != empty %}
+<aside class="related">
   <h3>Related Posts</h3>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
@@ -33,4 +23,5 @@ anchors.remove('.masthead-title');
       </li>
     {% endfor %}
   </ul>
-</div>
+</aside>
+{% endif %}
