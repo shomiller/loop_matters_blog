@@ -14,7 +14,9 @@ An unexpected post this time around, but I just noticed the [Berkeley Labs' pre
 
 To understand what LZ is setting out to do, it's helpful to first look at what LUX accomplished. Because we know the density of dark matter particles in the local part of the galaxy, we can write down the number of expected signals from dark matter scatters in terms of two quantities: the dark matter particle's mass and it's interaction cross section (the cross section is related to the strength of the dark matter particle's interaction with nuclei). Then, based on the number of recoils seen (or not seen) in a detector, we can set a limit in this parameter space. When we do this, we're essentially saying that if the dark matter particle had mass X (say, 10 GeV/c^2), we know that it's cross section has to be less than Y, or else we would have seen more signals. Since the excluded cross section depends on the mass, we can draw the excluded "region" in the mass-cross section plane, and get plots like this:
 
-![Direct Detection Limits]({{ site.baseurl }}/assets/direct_detection_limits_2013.jpg "Spin-Independent limits for dark matter direct detection in the mass-cross section plane, as of 2013. Courtesy http://newscenter.lbl.gov")
+<img style="float: center;" width="650" src="{{ site.baseurl }}/assets/direct_detection_limits_2013.jpg" alt="Direct Detection Limits">
+*Spin-Independent limits for dark matter direct detection in the mass-cross section plane, as of 2013. Courtesy http://newscenter.lbl.gov*
+
 
 In this plot, the upper right regions above the curves are excluded by different experiments. The shaded regions are those that are excluded, while the dashed lines are the expected exclusion regions based on future experiments (assuming they don't see anything!) If you look carefully, you can see that for a wide range of mass values, the limits from LUX in 2013 were the most stringent to date at the time. Their updated limits that were just [released last month](http://physics.aps.org/articles/v10/3) are essentially at the dashed line labelled "LUX 300-day”1.
 
