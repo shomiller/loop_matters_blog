@@ -4,30 +4,39 @@
   {% include head.html %}
   {% include google_analytics.html %}
 
-  <body>
-
+  <body class ="light sbured smaller freestyle01">
     <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a href="{{ site.baseurl }}/"><h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1></a>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    <div id="layout">
+      <div class="col c5 smaller">
+        <a href="{{ site.baseurl }}/"><h2 id="project_title">{{site.title }}</h2></a>
+      </div>
 
-          <h3>
-            {% for page in site.pages_list %}
-              &nbsp;&nbsp;&nbsp;<small><a href="{{ site.baseurl }}{{ page[1] }}">{{ page[0] }}</a></small>
-            {% endfor %}
-          </h3>
+      <div class="col c7 aligncenter">
+        <h3 id="project_tagline">{{ site.description }}</h3>
+      </div>
 
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
-        </header>
+      <h3>
+        {% for page in site.pages_list %}
+          &nbsp;&nbsp;&nbsp;<small><a href="{{ site.baseurl }}{{ page[1] }}">{{ page[0] }}</a></small>
+        {% endfor %}
+      </h3>
+
+      {% if site.show_downloads %}
+        <section id="downloads">
+          <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
+          <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
+        </section>
+      {% endif %}
+
+      <div class="row">
+        <div class="col c12 alignright">
+          <img src="{{ site.baseurl }}/assets/bubble_chamber_cropped.jpg" width="960" height="200" alt=""/>
+        </div>
+      </div>
+
     </div>
-
     <!-- MAIN CONTENT -->
+
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
