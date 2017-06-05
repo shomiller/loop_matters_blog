@@ -3,10 +3,8 @@ author: shomiller
 comments: true
 date: 2016-08-11 17:32:18+00:00
 layout: post
-link: http://you.stonybrook.edu/loopmatters/2016/08/11/the-new-blog/
 slug: the-new-blog
 title: The New Blog
-wordpress_id: 8
 ---
 
 Welcome to Loop Matters, my new blog about particle physics, science, and whatever else I happen to be thinking about. My plan for this blog is to help myself dig a little deeper when I come across new physics news, particularly when it pertains to particle physics, until I'm comfortable enough to write about it. While most of my posts will be about particle physics or theoretical physics in general, I'll doubtlessly explore other areas of physics, science, and more general topics on occasion too.
