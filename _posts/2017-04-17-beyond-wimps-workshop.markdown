@@ -4,10 +4,14 @@ comments: true
 date: 2017-04-17 10:00:19+00:00
 layout: post
 slug: beyond-wimps-workshop
-title: Workshop -- Beyond WIMPs (Day 1)
+title: Workshop -- Beyond WIMPs
 tags:
 - Dark Matter
 - Particle Physics
+---
+
+(**Updated June 5, 2017** -- I've added brief summaries of Day 2 and 3 of the workshop. Unfortunately, my notes were far less detailed, but you can see all the talks yourself at the [workshop page](http://scgp.stonybrook.edu/archives/18377), or ask questions in the comments below!)
+
 ---
 
 A couple weeks ago, I was at a dark matter physics workshop next door at the Simons Center for Geometry and Physics. The workshop was entitled "Beyond WIMPs: From Theory to Detection" and was organized by a couple of professors and postdocs from the YITP here at Stony Brook along with several of their collaborators from out of town. The goal was to discuss ideas about dark matter outside of the WIMP paradigm (which I discussed some in some [earlier posts]({{ site.baseurl }}/dark-matter-and-dama-part-i-the-anomaly.html)), which has been the guiding principle for many experiments in the last few decades. Since no convincing evidence of dark matter with weak scale mass and couplings has been found as of yet, a key goal for particle physicists is to elucidate what else dark matter could be, and how we might detect it.
@@ -26,3 +30,24 @@ Unfortunately, I had to miss the following talk by Alyson Brooks due to teaching
 After lunch, the simulation talks continued with Manoj Kaplinghat discussing self-interacting dark matter (SIDM). This was one of my favorite talks, as it reviewed what seems to me like one of the bigger breakthroughs of the past few years. The basic idea is that the usual CDM model, extended with a small self-interacting cross section for the dark matter particles, nicely fits the rotation curves of an abundance of galaxies. The diversity problem alluded to above is solved by the baryon density, which is not the same in every galaxy. I can't possibly do their results justice, as I'm not an astrophysicist, but I highly recommend checking out the talk or their paper here: [arXiv:1611.02716](https://arxiv.org/abs/1611.02716). SIDM is particularly interesting for particle physicists, as it's a big clue for model building we get entirely from astrophysics.
 
 The day concluded with a couple less traditional sessions -- the first was a "RMP", short for "read my paper", where several authors not giving full length talks gave quick 5-10 minute overviews of things they'd been working on recently. Unlike the rest of the day, these quick plugs weren't limited to astrophysical aspects of dark matter. One of my favorites was from Martin Schmaltz, who discussed a QCD-like dark sector model, and it's implications for both astrophysics and other phenomenology. Finally, there was a "Self-Interacting Panel", which promoted a more informal discussion about some of the topics earlier in the day, which I unfortunately had to miss for a class.
+
+
+### Day 2: "Traditional" Dark Matter Candidates
+
+While the first day's talks focused more on the astrophysical evidence for dark matter (which is really all we have, thus far), the next two days focused on particular candidates of what's making up the dark matter. The talks on Day 2 by and large centered around what might be called "modified" WIMP hypotheses. These were mostly candidates that are inspired from popular particle physics models, such as sub-GeV dark sectors or axions.
+
+The first talk by Mina Arvanitaki was entitled "Axions", but she took the liberty of discussing not only the usual axion models but generic pseudo-scalar candidates for dark matter. The next talk was by Maxim Popsolev, who discussed alternative methods for searching for dark matter. One of his focuses was on MiniBooNE and other neutrino detectors that can be adapted to dark matter searches (For example, see the [recent paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.118.221803) by the MiniBooNE-DM collaboration that was just published in PRL). He discussed how several other particle physics experiments such as SHiP, LDMX, and DUNE can be used to constrain a few different models of dark matter.
+
+After lunch, the workshop hosted the Simons Center Weekly Talk given by Neal Weiner. As is traditional for the Simons Center, the weekly talk is often given by a workshop participant at a slightly broader level, to give the non-specialists at the center a chance to learn about what the different workshops are about. Neal's talk was a really excellent overview of the history of the field and also included a very pedagogical introduction to how model-building for dark matter works today, so if you're new to dark matter physics I highly recommend watching it [here](http://scgp.stonybrook.edu/video_portal/video.php?id=3103).
+
+The last standard talk of the day was one of my favorites of the workshop -- Josh Ruderman discussed the "Cosmology of Thermal Dark Sectors". Josh presented a multitude of alternatives to the usual 2 - 2 process that couples the dark matter to the standard model and leads to the freeze-out in the WIMP miracle. These alternatives include "freeze-in" processes, cannibal DM, asymmetric DM, and forbidden DM and a host of others that involve different interactions between the dark matter and itself or standard model particles. Considering models with each different type of interaction can lead to a multitude of different ways of getting the relic abundance we observe with a variety of different phenomenology of the dark matter particles. Since this is one of my favorite ideas, I'll surely devote an entire post to it in the near future.
+
+Finally, the day concluded with another set of short talks, this time on sub-GeV dark matter. These included a lot of proposals of nearly "table-top" experiments that can be used to search for different models of sub-GeV dark matter in a bunch of new and exciting ways.
+
+### Day 3: "Alternative" Dark Matter Candidates
+
+On the final day of the workshop, the talks continued to focus on candidates for dark matter, but for the most part on possibilities that are very much unlike the WIMP hypotheses and it's alternatives discussed in Day 2. The first talk was by Justin Khoury, who discussed superfluid dark matter. His major point was that a theory of dark matter had to explain the observations of MOND, and he showed that one way to do this was through non-trivial interactions leading to a strange equation of state for the dark matter such that it acted like a superfluid.
+
+The next talk of the day was by Yacine Ali-Haimoud, who discussed Macroscopic Dark Matter. This includes ideas such as primordial black holes or other macroscopic objects making up (at least part of) the dark matter abundance. The next talk was from David B Kaplan from the University of Washington (there are at least two David Kaplan's in theoretical physics, the other at Johns Hopkins University). Kaplan is actually a nuclear theorist, but while he was working on how to describe chiral gauge theories on the lattice he arrived at some non-standard interactions between fermions that could be important for something that must have properties of dark matter.
+
+After lunch, the last talk of the workshop was given by Kev Abazajian (who you should follow on Twitter [@kevaba](https://twitter.com/kevaba)), who discussed "Warm Dark Matter & Sterile Neutrinos". He reviewed some history of neutrino mass models -- a separately motivated extension to the standard model necessary to explain the observed neutrino oscillations, and discussed how the additional states introduced could play the role of dark matter. He reviewed several astrophysical signals and made the argument that sterile neutrinos are still the simplest explanation and possibly the simplest candidate for the dark matter as well.
