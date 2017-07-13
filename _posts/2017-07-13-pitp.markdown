@@ -1,0 +1,22 @@
+---
+author: shomiller
+comments: true
+date: 2017-07-13 12:00:19+00:00
+layout: post
+slug: pitp-2017
+title: PiTP 2017 at the IAS
+tags:
+- Graduate School
+- Particle Physics
+- Dark Matter
+---
+
+Later this month I'm extremely fortunate to spend two weeks at the Institute for Advanced Study at Princeton for the [Prospects in Theoretical Physics (PiTP) Summer School](https://pitp.ias.edu). The focus this year is "Particle Physics at the LHC and Beyond" -- a perfect fit for the research that I'm doing for my PhD.
+
+Summer schools have a bit of an odd but important place in graduate school -- typically, a graduate student (at least in physics) takes classes full time for the first year or two while also searching for a research group to be a part of. These classes range from core classes on the foundations of physics (Quantum Mechanics, Electrodynamics, Statistical Mechanics) to breadth classes on a diverse set of modern research topics to relatively advanced classes on your chosen field (for me, the last of these were courses on things like Supersymmetry or Advanced Particle Physics).
+
+While these classes are typically fast paced and cover a lot of material, it's simply not possible to get a really deep understanding of all the different things happening in any particular subfield. At the same time, when you start doing research in graduate school you very quickly get thrown into the depths of a very narrow problem. Of course, any graduate student spends a great amount of time reading on their own about the broader context of their research or tries to go in depth on some of the stuff they learn in classes, but even so, it can be a very big gap to try and fill.
+
+That's where programs like PiTP come in -- they're intended for graduate students (and sometimes postdocs as well) who've already started research and know a lot about a few things and a little about a lot of things to focus some time on a slightly more advanced set of topics. The schools will typically invite 10-20 professors who are experts in different areas of research to come and give 3 or so 90 minute lectures on their chosen topic. As an example, this summer some of the lectures will be on how to extract fundamental physics from the Cosmic Microwave Background and Large Scale Structure measurements. Another set of lectures will talk about small-scale experiments that can give us insight into particle physics like dark matter. This is the kind of background that can help jumpstart research ideas and new projects but also simply provide a broader view of the field.
+
+Of course, another great benefit of summer schools is that it gives you a chance to meet both professors in similar fields as well as a bunch of other students who work on similar things. Since all of the students work on really similar topics, we're bound to run into each other again at conferences and workshops down the line, so I'm particularly excited to start making the kind of connections that will hopefully last the rest of my professional career.
