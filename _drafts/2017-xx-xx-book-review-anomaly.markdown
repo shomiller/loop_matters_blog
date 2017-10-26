@@ -13,7 +13,7 @@ tags:
 While it’s something of a cliche, I have to admit that popular physics books played a tremendous role in my path towards studying physics in graduate school. Books such as Stephen Hawking’s A Brief History of Time, Brian Greene’s The Elegant Universe, and Richard Feynman’s QED were some of the most influential books I read in high school, and motivated me to choose physics and math as majors in college. That being said, ever since I started my formal physics education, I’ve tended to shy away from physics when I get a chance to read – mostly just because I could learn the material “for real” and because, as much as I love learning physics, reading popular physics books isn’t the best break from studying.
 
 I had to make an exception though, for Tommaso Dorigo's book, <i>Anomaly!</i>. For one, Tommaso has hosted a prolific blog for many years, which I'm an avid follower of. The main reason I was so intrigued by his book though, is that unlike most popular physics books written by theoretical physicists, <i>Anomaly!</i> is an experimentalists tale. The book is not an explanation of one of the big ideas in the field, but instead an account of what it's like working in a large particle physics collaboration -- in this case, the CDF experiment and the Tevatron at Fermilab.
-
+s
 (Give general reasons why I liked the book, overall impression)
 
 (Review each "section" 1. Introduction, 2. The Top Quark, 3. Anomalies etc.)
