@@ -1,0 +1,21 @@
+---
+author: shomiller
+comments: true
+date: 2018-06-03 12:00:19+00:00
+layout: post
+slug: tasi-2018
+title: TASI 2018
+tags:
+- Graduate School
+- Particle Physics
+---
+
+For the next four weeks I'll be in Boulder, Colorado for the [Theoretical Advanced Study Institute (TASI) 2018](https://www.colorado.edu/physics/TASI). For those who don't know, TASI is widely regarded as one of the preeminent schools for graduate students in theoretical physics -- usually for those entering their 4th or 5th year. It tends to alternate between more "formal" theory (topics more closely related to string theory) and "particle phenomenology" -- the latter being my area of research. This year the topic is "Theory in an Era of Data", and the lineup of speakers is really exciting.
+
+The format of TASI is very similar to that of PiTP, which I [blogged about last summer]({{ site.baseurl }}/pitp-2017.html)) -- each day has three or four 90-minute lectures on a topic of their expertise, and each lecturer will teach somewhere between three and five sessions to give a nice overview of their field. These experts also tend to hang around a lot between their lectures and at meals and are always more than happy to interact with the students throughout the day. It's thus a wonderful opportunity to soak up knowledge from some of the most well-known researchers in particle physics.
+
+In addition to some more general lectures on particle physics that will be super useful for my research (Early Universe Cosmology, QCD at Colliders, Flavor Physics, ...) there are several somewhat less standard topics that appear to be built around this year's theme of big data. These include lectures on Statistics and Machine Learning at Colliders from Daniel Whiteson and Statistics in Cosmology and Particle Astrophysics from David Hogg. I'm particularly excited for these lectures as it's the kind of material that's much less easy to find in a book but equally (if not more) important for actually doing research. Particularly exciting, for those of you at home, is that all the lectures are recorded and the videos are posted online here: [https://physicslearning.colorado.edu/tasi/](https://physicslearning.colorado.edu/tasi) including all the lectures from previous years. Most of the lectures are usually transcribed into nice notes and uploaded on the arXiv later as well, and they make great references for graduate students getting into the field.
+
+Of course, as with PiTP last year, one of the best things about TASI is that it gives all the students (about 60 of us in total) a chance to interact with one another -- most of us are in similar fields and at a similar stage in our graduate careers, so we're likely to be running into one another for many years to come at conferences, workshops and the like, and the friendships we make in the next month will hopefully last long after our postdocs. All of the young professors and postdocs I've talked to look back fondly on their experiences at TASI as a formative moment in their graduate life, and I really can't wait for the lectures to start tomorrow morning!
+
+More soon --
